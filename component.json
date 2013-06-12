@@ -1,0 +1,12 @@
+{
+  "name": "Faker",
+  "repo": "Marak/Faker.js",
+  "description": "generate massive amounts of fake data in the browser and node.js",
+  "version": "0.5.5",
+  "dependencies": {},
+  "keywords": [],
+  "main": "Faker.js",
+  "scripts": [
+    "Faker.js"
+  ]
+}
